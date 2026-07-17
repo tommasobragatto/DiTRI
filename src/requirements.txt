@@ -1,0 +1,12 @@
+# Gestione reti elettriche e algoritmi
+pandapower>=2.13.0
+pygad>=3.0.0
+numpy>=1.22.0
+
+# Database e Connettività
+psycopg2-binary>=2.9.0
+paho-mqtt<2.0.0
+
+# Utilità (spesso già incluse ma utili da specificare)
+# datetime, json, uuid, logging, time sono librerie standard di Python 
+# e NON vanno inserite qui.
